@@ -2,8 +2,8 @@
 
 <h2  align="center">:sparkles: About me</h2>
 <p align="center">
-  :books: Aerospace Engineering MSc student at [Politecnico di Torino](https://www.polito.it/), Italy.<br/>
-  :rocket: Rocket Propulsion engineer at [PoliTo Rocket Team](https://www.politorocketteam.it/).<br/>
+  :books: Aerospace Engineering MSc student at <a href="https://www.polito.it/" target="_blank">Politecnico di Torino</a>, Italy.<br/>
+  :rocket: Rocket Propulsion engineer at <a href="https://www.politorocketteam.it/" target="_blank">Polito Rocket Team</a>.<br/>
   :thought_balloon: Currently learning about computational fluid dynamics (CFD) source code development!<br/>
 <p/>
 
