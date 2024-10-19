@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Alessio!
+<h1 align="center">👋 Hey, I'm Alessio!</h1>
+
+## :sparkles: About me
 :books: Aerospace Engineering MSc student at [Politecnico di Torino](https://www.polito.it/), Italy<br/>
 :rocket: Rocket Propulsion engineer at [PoliTo Rocket Team](https://www.politorocketteam.it/)<br/>
 :thought_balloon: Currently learning about computational fluid dynamics (CFD) source code development!<br/>
