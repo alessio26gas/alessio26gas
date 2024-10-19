@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm Alessio!
-📚 Aerospace Engineering MSc student at [Politecnico di Torino](https://www.polito.it/), Italy<br/>
-🚀 Rocket Propulsion engineer at [PoliTo Rocket Team](https://www.politorocketteam.it/)<br/>
-💭 Currently learning about computational fluid dynamics (CFD) source code development!<br/>
+:books: Aerospace Engineering MSc student at [Politecnico di Torino](https://www.polito.it/), Italy<br/>
+:rocket: Rocket Propulsion engineer at [PoliTo Rocket Team](https://www.politorocketteam.it/)<br/>
+:thought_balloon: Currently learning about computational fluid dynamics (CFD) source code development!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/alessio26gas">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alessio26gas&rank_icon=github&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/alessio26gas">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessio26gas&theme=tokyonight&layout=donut&hide_border=true&langs_count=8&card_width=320" />
 </a>
 
